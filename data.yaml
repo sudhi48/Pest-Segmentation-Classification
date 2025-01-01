@@ -1,0 +1,17 @@
+train: D:/AI Client project PR-0019/Dataset-yolo/images/train
+val: D:/AI Client project PR-0019/Dataset-yolo/images/val
+test: D:/AI Client project PR-0019/Dataset-yolo/images/test
+
+nc: 11  # Number of classes
+names:
+  - "asiatic rice borer"
+  - "paddy stem maggot"
+  - "rice gall midge"
+  - "rice leaf caterpillar"
+  - "rice leaf roller"
+  - "small brown plant hopper"
+  - "wheat blossom midge"
+  - "wheat phloeothrips"
+  - "wheat sawfly"
+  - "white backed plant hopper"
+  - "yellow rice borer"
